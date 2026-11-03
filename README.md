@@ -2,6 +2,10 @@
 
 A simple browser-based random joke generator powered by [JokeAPI](https://v2.jokeapi.dev/).
 
-## Run it
+## How to use
 
-Open `index.html` in a browser with an internet connection, then select **Tell me a joke**. The app requests a safe-mode joke from JokeAPI and displays either a one-part joke or a setup and punchline. No build tools or API key are required.
+1. Open `index.html` in a browser.
+2. Click **Tell me a joke**.
+3. The app fetches a safe joke from the external JokeAPI and displays it.
+
+No build step or API key is required.
